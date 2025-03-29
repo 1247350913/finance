@@ -1,2 +1,2 @@
-# plaid_setup
-Scripts. Use Plaid to extract, transform, and display financial data. Python.
+# personal_finances
+Collect all my financial data for display and quick decisions
